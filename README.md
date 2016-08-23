@@ -1,2 +1,0 @@
-# Manvi-Induction
-Induction
